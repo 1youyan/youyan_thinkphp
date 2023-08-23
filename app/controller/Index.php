@@ -33,7 +33,7 @@ class Index
 
     public function test()
     {
-        return json_encode(['status' => 200, 'msg' => '这是第一个微信云托管测试项目！！！']);
+        return json_encode(['status' => 200, 'msg' => '这是第一个微信云托管测试项目！！！！']);
     }
 
 
